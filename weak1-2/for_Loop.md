@@ -20,7 +20,7 @@ Using for loop figure out how many times you got heads
 ## 3. Print square of all numbers between 1 to 10 except even numbers
 ## 4. Your monthly expense list (from Jan to May) looks like this,
 ```
-expense_list = [2340, 2500, 2100, 3100, 2980]
+expense_list = [2540, 2510, 2100, 3100, 2880]
 ```
 Write a program that asks you to enter an expense amount and program
 should tell you in which month that expense occurred. If expense is not
