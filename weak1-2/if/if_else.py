@@ -40,7 +40,7 @@ else:
 
 
 
-## 4. solve no 4
+## 4. solve no 4(i)
 
 india = ["mumbai", "banglore", "chennai", "delhi"]
 pakistan = ["lahore","karachi","islamabad"]
@@ -59,7 +59,7 @@ else:
 
 
 
-## 5. solve no 5
+## 5. solve no 4(ii)
 
 city1 = input("Enter first city: ").lower()
 city2 = input("Enter second city: ").lower()
@@ -75,7 +75,7 @@ else:
 
 
 
-## 6. solve no 6
+## 6. solve no 5
 
 sugar = int(input("Enter your fasting sugar level: "))
 
