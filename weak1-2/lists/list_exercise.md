@@ -86,3 +86,5 @@ Using this find out,
        Do that with one line of code.
     5. Sort the heros list in alphabetical order (Hint. Use dir() functions to list down all functions available in list)
 
+
+[Solution](https://github.com/aranna05/python-roadmap/blob/main/weak1-2/lists/list_solve.py)
