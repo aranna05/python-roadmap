@@ -28,3 +28,7 @@ Below 60: F
     2. If it is below 80 to 100 range then print that sugar is low
     3. If it is above 100 then print that it is high otherwise print that it is normal
 
+
+
+
+[Solution](https://github.com/aranna05/python-roadmap/blob/main/weak1-2/if/if_else.py)
