@@ -13,3 +13,5 @@ wrong statement, the correct statement is 'maine 10 samosa khaye'.
 Replace incorrect words in original strong with new ones and print the new string.
 Also try to do this in one line.
 
+
+[Solution](https://github.com/aranna05/python-roadmap/blob/main/weak1-2/string/String_exercise.py)
