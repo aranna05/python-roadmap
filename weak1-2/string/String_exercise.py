@@ -25,4 +25,21 @@ print(sentence[6:14])
 print(sentence[-3:])
 
 
+## solve no 3
+
+veggies = 3
+fruits = 2
+
+print(f"I eat {veggies} veggies and {fruits} fruits daily.")
+
+
+
+## solve no 4
+
+s = 'maine 200 banana khaye'
+
+# One-line replacement
+s = s.replace('200', '10').replace('banana', 'samosa')
+
+print(s)
 
