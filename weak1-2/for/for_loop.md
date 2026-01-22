@@ -40,3 +40,5 @@ found then it should print that as well.
 ****
 *****
 ```
+
+[Solution](https://github.com/aranna05/python-roadmap/blob/main/weak1-2/for/for_loop.py)
