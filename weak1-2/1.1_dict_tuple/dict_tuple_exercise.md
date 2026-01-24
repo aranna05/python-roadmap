@@ -42,3 +42,4 @@
 
 3. Write circle_calc() function that takes radius of a circle as an input from user and then it calculates and returns area, circumference and diameter. You should get these values in your main program by calling circle_calc function and then print them
 
+[Solution](https://github.com/aranna05/python-roadmap/blob/main/weak1-2/1.1_dict_tuple/dict_tuple_solve.py)
