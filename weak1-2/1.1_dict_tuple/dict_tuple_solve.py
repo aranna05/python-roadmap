@@ -1,4 +1,4 @@
-##solve no 1
+##solve no 2
 import statistics
 
 stocks = {
