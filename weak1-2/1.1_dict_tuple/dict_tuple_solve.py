@@ -53,7 +53,7 @@ if __name__ == '__main__':
     main()
 
 
-##solve no 2
+##solve no 2...
 import statistics
 
 stocks = {
