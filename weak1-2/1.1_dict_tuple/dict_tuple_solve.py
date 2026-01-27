@@ -1,4 +1,4 @@
-## solve no 1...
+## solve no 1............................................................................................................................
 population = {
     'china': 143,
     'india': 136,
@@ -53,7 +53,7 @@ if __name__ == '__main__':
     main()
 
 
-##solve no 2...
+##solve no 2...........................................................................................................................
 import statistics
 
 stocks = {
@@ -90,3 +90,20 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
+##solve no 3.................................................................................................................................
+import math
+
+def circle_calc(radius):
+    area=math.pi*(radius**2)
+    circumference=2*math.pi*radius
+    diameter=2*radius
+    return area, circumference,diameter
+
+if __name__=="__main__":
+    r=input("Enter a radius:")
+    r=float(r)
+    area, c, d = circle_calc(r)
+    print(f"area {area}, circumference {c}, diameter {d}")
